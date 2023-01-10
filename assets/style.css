@@ -61,3 +61,7 @@ header {
 .inverted {
   filter: invert();
 }
+
+.hovering:hover .overlay-img {
+  display: block !important;
+}
